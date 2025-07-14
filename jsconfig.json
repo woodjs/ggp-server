@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./src",
+		"paths": {
+			"@modules/*": ["modules/*"],
+			"@loaders/*": ["loaders/*"],
+			"@routes": ["routes"],
+			"@middlewares/*": ["middlewares/*"],
+			"@utils/*": ["utils/*"],
+			"@config/*": ["config/*"],
+			"@database/*": ["database/*"],
+			"@commons/*": ["commons/*"],
+			"@root/*": ["./*"]
+		}
+	}
+}
