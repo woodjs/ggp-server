@@ -39,6 +39,7 @@ exports.expressLoader = () => {
 					'https://www.app.profitonweed.com',
 					'https://www.admin.profitonweed.ru',
 					'https://admin.profitonweed.ru',
+					'https://client.gg-paradise.com',
 				],
 			})
 		)
