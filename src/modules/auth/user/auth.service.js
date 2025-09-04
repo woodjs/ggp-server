@@ -17,7 +17,6 @@ const { CodeService } = require('@modules/user/two-factor/code/code.service');
 const { TokenService } = require('@modules/user/token/token.service');
 const { UserRoleService } = require('@modules/role/user/user-role.service');
 
-
 module.exports.AuthService = {
 	async login(payload) {
 		const { password, userAgent, ip } = payload;
@@ -80,7 +79,7 @@ module.exports.AuthService = {
 			},
 		});
 
-		let parentId = 2875;
+		let parentId = 1;
 		if (candidateLogin)
 			throw HttpException.forbidden(translator('auth:login-take'));
 		if (candidateEmail)
