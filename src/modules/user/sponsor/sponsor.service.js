@@ -35,7 +35,7 @@ module.exports.UserSponsorService = {
 		const sponsorSocial = await UserSocialService.findLinksByUserId(sponsor.id);
 		// Имя ранга
 		const rankName = await MarketingService.findById(sponsor.rank).then(
-			(res) => res.name
+			(res) => res?.name ?? 'No rank'
 		);
 
 		return {
