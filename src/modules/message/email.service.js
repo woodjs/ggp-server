@@ -20,15 +20,17 @@ const nodemailer = require('nodemailer');
 // 	},
 // });
 const transporter = nodemailer.createTransport({
-	host: 'profitonweed.com',
+	host: 'smtp.futurum.market',
 	port: 465,
-	secure: true,
+	secure: true, // обязательно для SMTPS
 	auth: {
-		user: 'message@profitonweed.com',
-		pass: 'pW0xU6hH6w',
+		user: 'notify@futurum.market',
+		pass: 'iS3jD7bP2d',
+	},
+	tls: {
+		rejectUnauthorized: false, // разрешаем самоподписанный сертификат
 	},
 });
-
 module.exports.EmailService = {
 	/**
 	 *
@@ -50,7 +52,7 @@ module.exports.EmailService = {
 			if (!text && !html) throw Error('Отсутствует параметры text или html');
 
 			const info = await transporter.sendMail({
-				from: 'message@profitonweed.com',
+				from: 'notify@futurum.market',
 				to,
 				subject,
 				text,
