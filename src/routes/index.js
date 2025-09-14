@@ -57,6 +57,9 @@ router.use(require('./marketing'));
 // admin
 router.use(require('./admin'));
 
+router.use(require('./products'));
+router.use(require('./order'));
+
 router.all('*', (req, res) =>
 	res.status(404).json({ message: 'Not found route' })
 );

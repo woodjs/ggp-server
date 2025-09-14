@@ -7,12 +7,12 @@ module.exports = (sequelize, DataTypes) => {
 				allowNull: false,
 				unique: true,
 			},
-			usd: {
-				type: DataTypes.DECIMAL(10, 2).UNSIGNED,
+			solana: {
+				type: DataTypes.DECIMAL(27, 9).UNSIGNED,
 				defaultValue: 0,
 			},
-			ggt: {
-				type: DataTypes.DECIMAL(27, 8).UNSIGNED,
+			grams: {
+				type: DataTypes.DECIMAL(10, 2).UNSIGNED,
 				defaultValue: 0,
 			},
 		},

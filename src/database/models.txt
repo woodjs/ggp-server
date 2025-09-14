@@ -19,6 +19,9 @@ src/modules/nft/image/nft-Image.entity.js
 src/modules/nft/nft.entity.js
 src/modules/nft/user/nft.entity.js
 src/modules/nft/user/pot/nft-pot.entity.js
+src/modules/orders/order-item.entity.js
+src/modules/orders/order.entity.js
+src/modules/orders/product.entity.js
 src/modules/payment/detail/payment-detail.entity.js
 src/modules/payment/method/payment-method.entity.js
 src/modules/payment/payment.entity.js

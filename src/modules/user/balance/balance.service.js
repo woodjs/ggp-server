@@ -23,7 +23,7 @@ module.exports.UserBalanceService = {
 
 	async findAll(userId) {
 		const balances = await Balance.findOne({ where: { userId } }).then(
-			(res) => ({ usd: res.usd, ggt: res.ggt })
+			(res) => ({ sol: res.solana, grams: res.grams })
 		);
 		return balances;
 	},
