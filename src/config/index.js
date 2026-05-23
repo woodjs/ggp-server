@@ -16,6 +16,10 @@ const {
 	LOG_DIR,
 	ORIGIN,
 	STATIC_DOMAIN,
+	PRICE_PER_NFT,
+	SOLANA_NETWORK,
+	SOLANA_RPC_URL,
+	SOLANA_RECEIVER_WALLET,
 } = process.env;
 
 module.exports = {
@@ -34,4 +38,8 @@ module.exports = {
 	STATIC_DIR: `${process.cwd()}/src/static`,
 	ORIGIN,
 	STATIC_DOMAIN,
+	PRICE_PER_NFT,
+	SOLANA_NETWORK,
+	SOLANA_RPC_URL,
+	SOLANA_RECEIVER_WALLET,
 };

@@ -7,11 +7,11 @@ module.exports = (sequelize, DataTypes) => {
 				allowNull: false,
 				unique: true,
 			},
-			solana: {
+			usd: {
 				type: DataTypes.DECIMAL(27, 9).UNSIGNED,
 				defaultValue: 0,
 			},
-			grams: {
+			ggt: {
 				type: DataTypes.DECIMAL(10, 2).UNSIGNED,
 				defaultValue: 0,
 			},

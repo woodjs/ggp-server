@@ -18,9 +18,6 @@ module.exports.AuthController = {
 		return setJwt(result)(req, res);
 	},
 	async register(req, res) {
-		return res
-			.status(403)
-			.json({ message: 'Registration will be available soon' });
 		const result = await AuthService.register(req.body);
 		return setJwt({ id: result.id })(req, res);
 	},

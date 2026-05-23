@@ -1,0 +1,1068 @@
+=== User NFTs Report ===
+Generated: 2025-11-06T04:04:48.321Z
+Total users: 354
+
+================================================================================
+
+Login: admin | Email: tema.korolev.16@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-09
+NFT: 1 | $500.00
+
+Login: bobmarley | Email: moniesmakingeasy@ya.ru | Rank: 5 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-09
+NFT: 3 | $100.00
+
+Login: SoftDoc7 | Email: sergey.dobridnev@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-13
+NFT: 3 | $0.00
+
+Login: Asq55 | Email: omsk-wowa@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-15
+NFT: 3 | $50.00
+
+Login: Monique Germain | Email: mnqgermain@yahoo.ca | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-16
+NFT: 2 | $0.00
+
+Login: NPopova8 | Email: natasha1754348@gmail.com | Rank: 5 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-16
+NFT: 9 | $3051.00
+
+Login: aavasilenko | Email: aavasilenko@mail.ru | Rank: 6 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-16
+NFT: 31 | $48962.00
+
+Login: invest0mania | Email: ilya.pikalev@gmail.com | Rank: 4 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-16
+NFT: 3 | $50.00
+
+Login: SinevAA | Email: nivc.sinevaa@gmail.com | Rank: 5 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-16
+NFT: 3 | $200.00
+
+Login: FLYTEAM | Email: i@iprub.ru | Rank: 6 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-17
+NFT: 17 | $6067.48
+
+Login: Everest | Email: elenber9013@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-17
+NFT: 4 | $50.00
+
+Login: Kamtiv | Email: mr.makarov.viktor@bk.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-17
+NFT: 5 | $189.77
+
+Login: pavel134320 | Email: pavel1343200@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-17
+NFT: 3 | $0.00
+
+Login: 888ShubiN888 | Email: ivanser149@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-19
+NFT: 2 | $0.00
+
+Login: Marsv | Email: Valinurmv@mail.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-19
+NFT: 3 | $50.00
+
+Login: Genyi | Email: market121@yandex.ru | Rank: 3 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-20
+NFT: 13 | $2283.73
+
+Login: ZuevUra | Email: uzuev1579@gmail.com | Rank: 5 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-21
+NFT: 8 | $1650.00
+
+Login: Julia-1970 | Email: zhidetzkaya.julia@mail.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-21
+NFT: 4 | $450.14
+
+Login: katyap.5.5 | Email: katyap.5.5@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-21
+NFT: 4 | $579.59
+
+Login: maxsanych | Email: 79046685558@yandex.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-22
+NFT: 4 | $104.56
+
+Login: Tamila1978 | Email: akhmedgalf@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-22
+NFT: 1 | $30000.00
+
+Login: Serg100 | Email: ryabov.s.v@yandex.ru | Rank: 5 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-22
+NFT: 3 | $0.00
+
+Login: Koscoin | Email: kgavrilin837@gmail.com | Rank: 4 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-23
+NFT: 3 | $50.00
+
+Login: Umka999 | Email: lebedevs1978@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-23
+NFT: 4 | $1543.97
+
+Login: Nik | Email: n8007878@ya.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-23
+NFT: 2 | $0.00
+
+Login: SergeyMSS | Email: Malyshevss@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-24
+NFT: 4 | $100.00
+
+Login: Ramis | Email: ramis797@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-24
+NFT: 9 | $3542.68
+
+Login: hc1438177 | Email: ikhorsht75@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-25
+NFT: 10 | $7239.24
+
+Login: JekkyJekky | Email: br.92@yandex.ru | Rank: 3 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-25
+NFT: 8 | $7598.53
+
+Login: freedomevgeny | Email: vaninevgeny@gmail.com | Rank: 3 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-26
+NFT: 3 | $100.00
+
+Login: Svoboda53 | Email: nina82258@mail.ru | Rank: 3 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-26
+NFT: 6 | $600.00
+
+Login: Gazeta | Email: avtodoktor123@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-27
+NFT: 5 | $850.00
+
+Login: LIMixON | Email: 1mity25@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-27
+NFT: 4 | $670.85
+
+Login: chatter | Email: vyazanya@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-27
+NFT: 9 | $1100.00
+
+Login: kugani-ggp | Email: biz-tovar@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-28
+NFT: 5 | $339.78
+
+Login: marisoljka | Email: marisoljka50@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-28
+NFT: 3 | $50.00
+
+Login: marisha | Email: marisha-66@inbox.lv | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-28
+NFT: 3 | $50.00
+
+Login: KovalenkoDN | Email: KovalenkoDN@gmail.com | Rank: 4 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-28
+NFT: 2 | $0.00
+
+Login: hc1439481 | Email: koe_7@inbox.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-28
+NFT: 5 | $1000.00
+
+Login: DenisovaEkaterina | Email: e.molchanova84@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-28
+NFT: 4 | $165.89
+
+Login: Grebenuk | Email: partnerlr2013@gmail.com | Rank: 3 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-28
+NFT: 4 | $250.00
+
+Login: Schastje7799 | Email: lubasha19990909@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-28
+NFT: 5 | $550.00
+
+Login: Maruska | Email: lubasha1999090.9@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-28
+NFT: 3 | $50.00
+
+Login: hc1675043 | Email: dmitrievasv588@mail.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-28
+NFT: 3 | $100.00
+
+Login: KolpaK55 | Email: kolpakovii588@mail.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-28
+NFT: 3 | $100.00
+
+Login: TOMA95 | Email: toma.mer95@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-02-28
+NFT: 3 | $200.00
+
+Login: MolchanovaVera | Email: molvera5887@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-01
+NFT: 3 | $100.00
+
+Login: Saitama | Email: sergiev.aleksei@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-01
+NFT: 7 | $906.50
+
+Login: Shamets | Email: shamets@mail.ru | Rank: 4 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-01
+NFT: 4 | $553.06
+
+Login: Lililuha | Email: lililuha777@gmail.com | Rank: 7 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-01
+NFT: 5 | $7500.00
+
+Login: Ksusha71 | Email: shishkinaoksana1009@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-01
+NFT: 3 | $100.00
+
+Login: Svet-251 | Email: sgoncaruk631@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-01
+NFT: 5 | $866.50
+
+Login: hc:1572223 | Email: vbg-dostavca@list.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-01
+NFT: 3 | $0.00
+
+Login: Shamets111 | Email: shamets111@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-01
+NFT: 17 | $118500.00
+
+Login: uliavasileva 80525 | Email: uliavasileva80525@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-02
+NFT: 6 | $253.06
+
+Login: Livansky | Email: Livansky13@gmail.com | Rank: 3 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-03
+NFT: 3 | $0.00
+
+Login: master | Email: bgdima@bk.ru | Rank: 3 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-03
+NFT: 3 | $100.00
+
+Login: NataliNail | Email: s8aldcxxjxey@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-03
+NFT: 6 | $950.00
+
+Login: Sever01 | Email: ilakaunov2001@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-03
+NFT: 3 | $50.00
+
+Login: Pux04 | Email: Pux0435@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-04
+NFT: 3 | $200.00
+
+Login: VLyudmilaS | Email: VLyudmilasv@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-04
+NFT: 3 | $50.00
+
+Login: Izobilioner | Email: indigomyway@gmail.com | Rank: 3 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-06
+NFT: 4 | $200.00
+
+Login: Trust | Email: ggp.thailand@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-06
+NFT: 2 | $0.00
+
+Login: Фермер | Email: nataschazuewa76@bk.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-06
+NFT: 3 | $200.00
+
+Login: cannabis | Email: night.designer@mail.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-07
+NFT: 3 | $50.00
+
+Login: Lapkin345 | Email: lapkinandrey83@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-08
+NFT: 3 | $200.00
+
+Login: KonovalovDS | Email: dimenem1818@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-09
+NFT: 3 | $50.00
+
+Login: Mymilliontrb1982 | Email: sladusya1982@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-09
+NFT: 4 | $579.59
+
+Login: tearzz4godd | Email: bauergofaceit@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-09
+NFT: 3 | $200.00
+
+Login: natalibart1 | Email: natalibui@mail.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-09
+NFT: 4 | $163.66
+
+Login: gandelman69@gmail.com | Email: gandelman69@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-09
+NFT: 4 | $165.79
+
+Login: gh.84@list.ru | Email: gh.84@list.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-11
+NFT: 4 | $234.00
+
+Login: gandelman@list.ru | Email: gandelman@list.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-11
+NFT: 7 | $1004.00
+
+Login: KonovalovaKN | Email: susha_807@mail.ru | Rank: 3 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-12
+NFT: 3 | $50.00
+
+Login: Elenochkaandreeva | Email: elenochkaandreevaa@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-15
+NFT: 3 | $200.00
+
+Login: snow_white | Email: fedot4ev2012@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-16
+NFT: 8 | $24205.06
+
+Login: ElviraTikhonenko | Email: etikhonenko15@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-16
+NFT: 5 | $25000.00
+
+Login: zakmar | Email: mmzak7@mail.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-16
+NFT: 3 | $1800.00
+
+Login: Tani_solo | Email: tani.05@mail.ru | Rank: 3 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-18
+NFT: 3 | $50.00
+
+Login: tori_love_tori | Email: madam.kalinina-viktoria@yandex.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-18
+NFT: 3 | $50.00
+
+Login: Nastya123 | Email: denas.84@mail.ru | Rank: 4 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-18
+NFT: 3 | $50.00
+
+Login: Alexvali86 | Email: katyap.5.5@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-19
+NFT: 3 | $50.00
+
+Login: Andruxa01 | Email: katyap.5.5@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-19
+NFT: 3 | $50.00
+
+Login: Shamets02 | Email: shamets1212@mail.ru | Rank: 3 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-19
+NFT: 7 | $2953.06
+
+Login: Irinanelga | Email: irinanelga@mail.ru | Rank: 3 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-19
+NFT: 5 | $1050.00
+
+Login: ALTZ | Email: alexanderltz41@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-19
+NFT: 7 | $1250.00
+
+Login: Ninjapizza | Email: Ninjapizza.krd@gmail.com | Rank: 4 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-19
+NFT: 3 | $50.00
+
+Login: Lex22 | Email: lusman84@mail.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-19
+NFT: 3 | $50.00
+
+Login: ONKovalenko | Email: olgakovalenko20102015@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-20
+NFT: 4 | $1239.07
+
+Login: Spichkin | Email: dmitriispeechkin@yandex.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-25
+NFT: 3 | $1000.00
+
+Login: Dryid | Email: edik.rykunov226@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-26
+NFT: 4 | $250.00
+
+Login: Юрий | Email: yury.gryzlov@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-26
+NFT: 5 | $1700.00
+
+Login: Antipov 178 | Email: antipov252527@bk.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-29
+NFT: 3 | $100.00
+
+Login: Inulka | Email: kotaj405@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-30
+NFT: 3 | $200.00
+
+Login: mila | Email: msirkiz@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-31
+NFT: 3 | $1000.00
+
+Login: Valentina-1971 | Email: 79852796466@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-31
+NFT: 9 | $1611.79
+
+Login: Mila-Ludmila | Email: hyla-neva@mail.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-31
+NFT: 6 | $400.00
+
+Login: Valera-1968 | Email: zhidetskyvalery@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-03-31
+NFT: 7 | $1894.93
+
+Login: Alrossa | Email: natalyalrosa@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-02
+NFT: 3 | $200.00
+
+Login: KolipsoCoach | Email: kolipso1488@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-02
+NFT: 3 | $200.00
+
+Login: Yaroslav | Email: yaroslav.shkutyak@mail.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-04
+NFT: 3 | $200.00
+
+Login: @byzlobin | Email: zlobin-ka@yandex.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-04
+NFT: 3 | $100.00
+
+Login: Rothschild | Email: rotenbergi94@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-05
+NFT: 5 | $600.00
+
+Login: brosome | Email: kazanova609@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-05
+NFT: 3 | $200.00
+
+Login: AndreyGrigorev | Email: grihaife@mail.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-05
+NFT: 9 | $21324.98
+
+Login: Nuraly | Email: pamiro.consult@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-06
+NFT: 4 | $200.00
+
+Login: dister | Email: dister169@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-06
+NFT: 12 | $8859.53
+
+Login: Sharm | Email: 7025050@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-06
+NFT: 3 | $100.00
+
+Login: SVETIKDOVG | Email: svetikuniverse11@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-06
+NFT: 3 | $200.00
+
+Login: Evgeniinovoselok | Email: 7527780@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-06
+NFT: 3 | $1000.00
+
+Login: bayoon | Email: bayoon1982@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-06
+NFT: 3 | $1000.00
+
+Login: Георгий | Email: g11618157@gmail.com | Rank: 4 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-06
+NFT: 3 | $500.00
+
+Login: Nik_zol | Email: nikita_zol@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-10
+NFT: 3 | $200.00
+
+Login: NL90483 | Email: natalya.lukyanova.93@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-14
+NFT: 3 | $100.00
+
+Login: Daniil_shn | Email: daniil.bobrov.it@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-17
+NFT: 2 | $198.00
+
+Login: JanClop | Email: matvienkodanil@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-18
+NFT: 1 | $50.00
+
+Login: olb | Email: olb2000@gmail.com | Rank: 5 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-19
+NFT: 6 | $1200.00
+
+Login: Thaigrow.club | Email: criptobox@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-19
+NFT: 1 | $0.00
+
+Login: cryptopunk4201 | Email: cryptopunk4201@skiff.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-20
+NFT: 5 | $1063.33
+
+Login: psydjo | Email: psydjo@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-20
+NFT: 1 | $0.00
+
+Login: cryptosapphire | Email: cryptosapphire@icloud.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-22
+NFT: 1 | $500.00
+
+Login: Вадим | Email: kursant_2003@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-22
+NFT: 1 | $100.00
+
+Login: mebel-bos | Email: mebel-bos-sale@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-25
+NFT: 1 | $50.00
+
+Login: Liga | Email: vbyuryukov@bk.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-25
+NFT: 3 | $0.00
+
+Login: Darek | Email: strong.afin@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-25
+NFT: 2 | $0.00
+
+Login: Mark | Email: verifecatedftx@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-25
+NFT: 1 | $0.00
+
+Login: Luise | Email: cubexwlaccaunt@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-25
+NFT: 2 | $0.00
+
+Login: DmitrySH | Email: dimittrr85@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-25
+NFT: 2 | $0.00
+
+Login: Jungurr | Email: jungursaybat@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-25
+NFT: 2 | $0.00
+
+Login: K-really | Email: kreally854@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-25
+NFT: 2 | $0.00
+
+Login: Omega111111 | Email: omega111111@ukr.net | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-25
+NFT: 3 | $1000.00
+
+Login: Владимир 123 | Email: wdrx@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-25
+NFT: 3 | $0.00
+
+Login: Mvrk34 | Email: mochalovskiy@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-25
+NFT: 3 | $0.00
+
+Login: Mavrody | Email: zver_gosu@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-25
+NFT: 3 | $0.00
+
+Login: NikoPo | Email: natacha1754348@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-26
+NFT: 11 | $3651.00
+
+Login: Melkiy1 | Email: melkiy1@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-26
+NFT: 3 | $0.00
+
+Login: Nastya | Email: ywatafaka@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-26
+NFT: 3 | $0.00
+
+Login: Anvario | Email: anvar.tng@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-26
+NFT: 3 | $0.00
+
+Login: Spi4ka13 | Email: spi4ka.plis@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-26
+NFT: 3 | $0.00
+
+Login: Skillaz | Email: diego77993@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-26
+NFT: 3 | $0.00
+
+Login: Norino | Email: dim4ik.vakulenko@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-26
+NFT: 3 | $0.00
+
+Login: Marinika555 | Email: tina0108zin@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-27
+NFT: 6 | $453.06
+
+Login: zueva.v30z@gmail.com | Email: zueva.v30z@mail.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-27
+NFT: 3 | $200.00
+
+Login: Will | Email: WillRadetsky@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-29
+NFT: 3 | $1000.00
+
+Login: Гровер | Email: urijzuev801@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-04-29
+NFT: 3 | $4000.00
+
+Login: moneyshop | Email: top_auto@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-05-08
+NFT: 3 | $0.00
+
+Login: Abramovic11 | Email: anwaez@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-05-09
+NFT: 3 | $200.00
+
+Login: ArtVladPop | Email: nata9cha43175@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-05-17
+NFT: 10 | $4551.00
+
+Login: ivolga | Email: olb@fleurds.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-05-18
+NFT: 4 | $500.00
+
+Login: mitkinvl | Email: mitkinvl@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-05-29
+NFT: 5 | $600.00
+
+Login: Oksanaushanova | Email: tretyakovaov@yandex.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-05-29
+NFT: 3 | $20000.00
+
+Login: danmanthai-BAN | Email: danthainewmail@gmail.com-BAN | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-05-30
+NFT: 3 | $200.00
+
+Login: Харвест | Email: harvestivanov@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-05-30
+NFT: 4 | $4000.00
+
+Login: olb2 | Email: ivolga@fleurds.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-01
+NFT: 3 | $500.00
+
+Login: olbY | Email: olb2000@yandex.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-02
+NFT: 3 | $200.00
+
+Login: aavasilenko2 | Email: aavasilenko1985@gmail.com | Rank: 6 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-03
+NFT: 6 | $1893.33
+
+Login: aavasilenko3 | Email: aavasilenkoinvest@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-03
+NFT: 12 | $13543.33
+
+Login: aavasilenko4 | Email: crowdopit@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-03
+NFT: 7 | $4353.06
+
+Login: olbA | Email: admin@fleurds.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-03
+NFT: 10 | $3800.00
+
+Login: kraken1 | Email: kraken1@internet.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-03
+NFT: 3 | $200.00
+
+Login: ProstoRost | Email: rvssv@bk.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-07
+NFT: 4 | $824.79
+
+Login: DaryaNFT777 | Email: sds2704@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-10
+NFT: 5 | $200.00
+
+Login: kleva | Email: levon.kirakosyan@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-13
+NFT: 3 | $10000.00
+
+Login: OlivaBiret | Email: olivabiret@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-16
+NFT: 3 | $200.00
+
+Login: tomz | Email: 79515019449@ya.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-16
+NFT: 1 | $0.00
+
+Login: legomik0172 | Email: legomik0172@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-16
+NFT: 10 | $2404.13
+
+Login: Diego | Email: Diego-007@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-16
+NFT: 5 | $1205.00
+
+Login: adams | Email: angyadams@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-18
+NFT: 3 | $600.00
+
+Login: El_caramel | Email: mira.sibgatullina@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-18
+NFT: 3 | $200.00
+
+Login: Vserovno26 | Email: danil2156@ya.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-18
+NFT: 4 | $0.00
+
+Login: zhanna28 | Email: zhannapopova743@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-18
+NFT: 5 | $1050.00
+
+Login: parygiananv | Email: klaretty@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-18
+NFT: 3 | $0.00
+
+Login: raval | Email: ravkin.alex@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-19
+NFT: 6 | $8100.00
+
+Login: Anomonet | Email: anomonet@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-21
+NFT: 1 | $71.70
+
+Login: Tkach | Email: Artamoshkinaleksandr@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-21
+NFT: 3 | $200.00
+
+Login: AVAS | Email: vasilich74psk@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-27
+NFT: 2 | $46944.44
+
+Login: makc12345makc678 | Email: makc12345makc67890@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-27
+NFT: 1 | $228.97
+
+Login: premium777 | Email: yakimovagalina76@yandex.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-29
+NFT: 3 | $600.00
+
+Login: ChandraLi | Email: chandra@li.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-30
+NFT: 4 | $210.00
+
+Login: SmithBonn | Email: Trokhin.sergey@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-30
+NFT: 2 | $267.42
+
+Login: Gaijan | Email: bekindforeveryone@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-06-30
+NFT: 1 | $52.02
+
+Login: Mironowoleg | Email: mironowoleg@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-07-01
+NFT: 2 | $10000.00
+
+Login: ANLTZ | Email: kalinka-saw@web.de | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-07-07
+NFT: 4 | $900.00
+
+Login: matiolik | Email: voll74@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-07-09
+NFT: 10 | $4464.95
+
+Login: Kudin | Email: kudinu5288@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-07-10
+NFT: 4 | $275.92
+
+Login: Sniferok | Email: VovkaTixii@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-07-15
+NFT: 1 | $52.02
+
+Login: DeaDMorose | Email: romanpolajkov@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-07-20
+NFT: 3 | $0.00
+
+Login: Koroleva23 | Email: elvira.koroleva.76@list.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-07-22
+NFT: 2 | $253.06
+
+Login: c0ks | Email: vasil_14@list.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-07-25
+NFT: 3 | $200.00
+
+Login: indiemoreband | Email: indiemoreband@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-07-25
+NFT: 8 | $4118.39
+
+Login: Шишки | Email: zuevpvera@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-07-26
+NFT: 3 | $200.00
+
+Login: Tugarinov_igor@mail.ru | Email: Tugarinov_igor@mail.ru | Rank: 3 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-07-26
+NFT: 13 | $27159.03
+
+Login: personage123 | Email: personage123@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-07-31
+NFT: 7 | $91183.47
+
+Login: A4027N | Email: a.l.zaharov@ya.ru | Rank: 4 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-03
+NFT: 4 | $7030.19
+
+Login: Zueva.f99@mail.ru | Email: Zueva.f99@mail.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-03
+NFT: 4 | $1500.00
+
+Login: Coinfor | Email: coinforeveryday@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-08
+NFT: 7 | $4788.08
+
+Login: Theo | Email: lutzalexander@web.de | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-08
+NFT: 2 | $206.37
+
+Login: AndreyBoga | Email: drewbogor@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-10
+NFT: 10 | $5065.22
+
+Login: Мимоза | Email: natasha.natali.zuyeva.76.zuyeva@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-11
+NFT: 4 | $4053.00
+
+Login: Малышки | Email: l1uboncka@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-13
+NFT: 3 | $1056.10
+
+Login: Galina | Email: galina.petrushko@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-13
+NFT: 1 | $53.06
+
+Login: DenisKildiyarov | Email: denis_kildiyarov@vk.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-13
+NFT: 1 | $53.06
+
+Login: madys | Email: ruban.matvey@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-19
+NFT: 2 | $6000.00
+
+Login: Waldi | Email: adac@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-21
+NFT: 1 | $0.00
+
+Login: Shihslava | Email: tihonov_slava@lenta.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-24
+NFT: 1 | $6000.00
+
+Login: marioav | Email: oops.mario@gmail.com | Rank: 6 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-25
+NFT: 4 | $5402.02
+
+Login: NastyaT | Email: telkananastasia@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-25
+NFT: 3 | $2584.22
+
+Login: Fil2413 | Email: Filat2413@gmail.com | Rank: 7 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-29
+NFT: 4 | $21611.00
+
+Login: sidorov | Email: sidorov.artem.andreevich@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-30
+NFT: 7 | $5113.00
+
+Login: EgorSk777 | Email: nesterova-elya@inbox.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-31
+NFT: 2 | $20195.48
+
+Login: Soul | Email: travushkamuravushkaphuket@gmail.com | Rank: 6 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-31
+NFT: 9 | $24600.68
+
+Login: TAILOR | Email: tailorweed@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-08-31
+NFT: 5 | $4450.32
+
+Login: Ygan | Email: yganbbc@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-01
+NFT: 1 | $10000.00
+
+Login: Alex_2023 | Email: kalinka-saw@outlook.de | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-03
+NFT: 2 | $50.00
+
+Login: Sven | Email: pawlodar@gmx.de | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-03
+NFT: 2 | $103.02
+
+Login: Spokovskiy | Email: Nikitaspoko@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-04
+NFT: 2 | $939.23
+
+Login: jon | Email: jonwaferins@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-04
+NFT: 1 | $10000.00
+
+Login: Romeo | Email: romeropody@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-04
+NFT: 1 | $3000.00
+
+Login: DominiK | Email: alfreddominikan@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-04
+NFT: 1 | $6000.00
+
+Login: Arishandra | Email: tochilovaarisha@gmail.com | Rank: 3 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-05
+NFT: 3 | $16500.00
+
+Login: dzjekvorobej | Email: dzjekvorobej@yandex.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-06
+NFT: 1 | $50.00
+
+Login: Alex1708 | Email: 89817317448@yandex.ru | Rank: 5 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-06
+NFT: 4 | $4204.73
+
+Login: TatianaLabutina | Email: labbutt.1987@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-08
+NFT: 5 | $3269.54
+
+Login: Aleksandra | Email: Alexandra.lobanova.00@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-09
+NFT: 2 | $1052.00
+
+Login: Genius07 | Email: tugarinov2006ilya@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-10
+NFT: 2 | $1000.00
+
+Login: Shi_snab | Email: shi_snab13@outlook.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-11
+NFT: 1 | $6000.00
+
+Login: Natalka | Email: treumova@stoli.su | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-11
+NFT: 7 | $33448.00
+
+Login: Kiki | Email: carobi025@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-12
+NFT: 5 | $602.02
+
+Login: Advance688 | Email: advance688@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-14
+NFT: 1 | $0.00
+
+Login: StarMax | Email: amikan79@yandex.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-14
+NFT: 1 | $0.00
+
+Login: nezhmedin | Email: nezhmedin@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-14
+NFT: 1 | $0.00
+
+Login: Kpem | Email: kpem85@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-18
+NFT: 1 | $109.30
+
+Login: Serjo | Email: Klyuchkin.80@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-20
+NFT: 2 | $407.15
+
+Login: Dina | Email: dinara-80@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-22
+NFT: 1 | $1072.39
+
+Login: LIKHACHEVAYULYA | Email: likhachevayulya90@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-23
+NFT: 2 | $706.08
+
+Login: Ragamafen | Email: ragamafen@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-25
+NFT: 2 | $0.00
+
+Login: gekatonsm | Email: gekatonsm@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-26
+NFT: 1 | $0.00
+
+Login: Pablo | Email: piter2014spb@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-27
+NFT: 2 | $1500.00
+
+Login: WasDen4U | Email: rungammesi@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-09-29
+NFT: 1 | $105.08
+
+Login: Neiton939 | Email: neiton939@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-03
+NFT: 1 | $127.33
+
+Login: MasunPL | Email: masuneiro@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-03
+NFT: 1 | $0.00
+
+Login: Adamchk | Email: adam25021991@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-04
+NFT: 1 | $13000.00
+
+Login: igorizuchaetcrypty | Email: mikerinoperation1@rambler.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-04
+NFT: 1 | $0.00
+
+Login: Spichkin_dv | Email: tkd999@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-04
+NFT: 4 | $20173.91
+
+Login: Bubble | Email: vladan.bubble@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-04
+NFT: 1 | $0.00
+
+Login: yvnkee | Email: minokato@yandex.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-04
+NFT: 1 | $0.00
+
+Login: Vanua666 | Email: ivantal2005@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-04
+NFT: 1 | $0.00
+
+Login: powerofalcohol | Email: pavl228337@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-04
+NFT: 1 | $0.00
+
+Login: Jaysss | Email: Vkrovko68@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-04
+NFT: 1 | $0.00
+
+Login: zxcamapa | Email: gerasimenko12valera@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-04
+NFT: 1 | $0.00
+
+Login: herbolife | Email: zadorozhnii@pss-svidnik.sk | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-05
+NFT: 1 | $0.00
+
+Login: Stargirl | Email: voronova3103@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-06
+NFT: 1 | $500.00
+
+Login: antonartishchev | Email: antonartishchev@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-06
+NFT: 2 | $261.38
+
+Login: benesq | Email: ekfost@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-06
+NFT: 1 | $0.00
+
+Login: Nikk | Email: nik0802@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-06
+NFT: 1 | $0.00
+
+Login: troitsky_da | Email: x100avito@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-06
+NFT: 1 | $102.00
+
+Login: vikta | Email: bovikta@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-06
+NFT: 1 | $0.00
+
+Login: Apersh | Email: pershutova.anna@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-06
+NFT: 2 | $3300.00
+
+Login: AlexThunder | Email: vse.nicki.zanyati.blin@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-06
+NFT: 1 | $0.00
+
+Login: ksu_7171 | Email: ksu_yakubova@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-08
+NFT: 1 | $214.33
+
+Login: curashe | Email: leo.idorese2222arch@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-08
+NFT: 1 | $0.00
+
+Login: MidwinterNFT | Email: 322only322@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-08
+NFT: 1 | $50.00
+
+Login: macseo | Email: m.klyopov@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-10
+NFT: 1 | $0.00
+
+Login: natalika.srh1 | Email: natalika.srh1@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-10
+NFT: 1 | $0.00
+
+Login: Denusus16 | Email: Denisus16@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-10
+NFT: 1 | $0.00
+
+Login: Kkkkkkkkkk | Email: Clycdn@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-10
+NFT: 1 | $0.00
+
+Login: Nightingale | Email: dc.nightingale@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-11
+NFT: 1 | $0.00
+
+Login: Sammy49-lnd@mail.ru | Email: Sammy49-lnd@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-11
+NFT: 1 | $0.00
+
+Login: lalala2002lala | Email: andryushadenisov1@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-11
+NFT: 1 | $0.00
+
+Login: Zhanbulat | Email: zhanbulat1988@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-16
+NFT: 1 | $124.84
+
+Login: Lanamoney | Email: Sr21011984@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-18
+NFT: 4 | $3001.00
+
+Login: Artur.x | Email: lidka8888@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-19
+NFT: 1 | $2.02
+
+Login: TRU | Email: trunewski@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-20
+NFT: 4 | $19000.00
+
+Login: Pasha | Email: todaypasha844@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-20
+NFT: 1 | $3000.00
+
+Login: germanok | Email: heflos846@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-21
+NFT: 1 | $3000.00
+
+Login: Salmonpoke | Email: chepalinu@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-22
+NFT: 1 | $50.00
+
+Login: DOC | Email: doctordream.z04@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-22
+NFT: 4 | $4500.00
+
+Login: Moto | Email: moto.crosss45.Weed@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-22
+NFT: 2 | $4000.00
+
+Login: I_cant_stop | Email: valuevilyas2000@gmail.com | Rank: 3 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-22
+NFT: 1 | $6000.00
+
+Login: Ant1982_10P | Email: frez5@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-23
+NFT: 3 | $4000.00
+
+Login: Lohshprotnik | Email: thelossofsight@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-24
+NFT: 1 | $100.00
+
+Login: Tata28445 | Email: fiolenta65@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-25
+NFT: 1 | $15000.00
+
+Login: Ruvim | Email: ruvimmikolajchuk61941@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-27
+NFT: 1 | $0.00
+
+Login: serjlih97 | Email: serjtema@ya.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-28
+NFT: 2 | $1050.00
+
+Login: russkovam@bk.ru | Email: russkovam@bk.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-10-29
+NFT: 1 | $52.02
+
+Login: kusminovser | Email: kusminovser@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-01
+NFT: 1 | $51.00
+
+Login: Alex7 | Email: el_active@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-01
+NFT: 1 | $52.02
+
+Login: Turuhan | Email: fibramsk@ya.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-01
+NFT: 2 | $3000.00
+
+Login: d1n0 | Email: rafvaleev73@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-02
+NFT: 1 | $3000.00
+
+Login: Sheff | Email: lenjkammm@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-07
+NFT: 1 | $0.00
+
+Login: PITON | Email: 24filat13@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-07
+NFT: 1 | $1000.00
+
+Login: Kitok | Email: filat2413off@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-07
+NFT: 1 | $3000.00
+
+Login: Awesome | Email: mitroawesome@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-07
+NFT: 1 | $1000.00
+
+Login: MAnna | Email: aamitrofanova@mail.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-07
+NFT: 5 | $8000.00
+
+Login: Kristy | Email: ksushamk@bk.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-09
+NFT: 1 | $1000.00
+
+Login: bort327 | Email: bort327@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-10
+NFT: 6 | $6118.00
+
+Login: nsn4308 | Email: nsn4308.n@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-10
+NFT: 1 | $0.00
+
+Login: Alohakg | Email: mcolegromanov@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-11
+NFT: 1 | $153.00
+
+Login: Michan13 | Email: mbelov123@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-12
+NFT: 1 | $500.00
+
+Login: coolkirr | Email: kavalerov24@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-14
+NFT: 1 | $63.72
+
+Login: justpjbruh | Email: v.a.pavlin@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-15
+NFT: 1 | $111.00
+
+Login: NewAmirJoskiy | Email: internetmagazinh@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-21
+NFT: 1 | $51.00
+
+Login: denis_chernoi | Email: kd_tanya@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-23
+NFT: 1 | $0.00
+
+Login: Allger | Email: allger@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-23
+NFT: 2 | $500.00
+
+Login: Diamond | Email: zhivitsa.dima@bk.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-24
+NFT: 1 | $50.00
+
+Login: Tima | Email: t50801955@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-24
+NFT: 3 | $1500.00
+
+Login: Eugeneborn | Email: Eugeneborn1995@gmail.com | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-25
+NFT: 1 | $500.00
+
+Login: bacsod | Email: Krotovskaas@gmail.com | Rank: 7 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-25
+NFT: 5 | $34002.00
+
+Login: STANISLAVPalkin | Email: STANISLAV_0408@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-28
+NFT: 1 | $148.00
+
+Login: Nikakop | Email: nikakopeykina1@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-28
+NFT: 2 | $1000.00
+
+Login: Ajo_dobro | Email: rus024@inbox.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-11-28
+NFT: 1 | $51.00
+
+Login: Yan | Email: fil2413@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-02
+NFT: 5 | $2500.00
+
+Login: Ewgesha15 | Email: bologoffewgenij@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-05
+NFT: 2 | $1000.00
+
+Login: Victorys | Email: schuleru@bk.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-06
+NFT: 1 | $100.00
+
+Login: eremin.kirill1@gmail.com | Email: eremin.kirill1@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-06
+NFT: 1 | $100.00
+
+Login: valuev_2000@mail.ru | Email: valuev_2000@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-06
+NFT: 2 | $1000.00
+
+Login: Misha111 | Email: Misha14_94@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-06
+NFT: 2 | $1000.00
+
+Login: oneclickpochta@gmail.com | Email: oneclickpochta@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-06
+NFT: 2 | $1000.00
+
+Login: enjo7 | Email: bobrenkovv@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-06
+NFT: 2 | $1000.00
+
+Login: nadinli | Email: nadinlilider@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-06
+NFT: 3 | $1500.00
+
+Login: avgyst1 | Email: avgystkamyy@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-08
+NFT: 2 | $1000.00
+
+Login: Beerka | Email: alex-engtransstroy@yandex.ru | Rank: 2 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-08
+NFT: 4 | $4002.00
+
+Login: Nariman_7717 | Email: narimanabdullayev@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-10
+NFT: 1 | $100.00
+
+Login: Matrosova1970 | Email: tugarinova_tamara1970@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-11
+NFT: 4 | $12000.00
+
+Login: Tikhomirov | Email: tikhomirov_d@icloud.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-12
+NFT: 1 | $50.00
+
+Login: Khlebnikova | Email: katyhlebnikova@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-12
+NFT: 2 | $3000.00
+
+Login: bizon | Email: bizon@fleurds.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-13
+NFT: 4 | $3725.00
+
+Login: KostyaJimmy | Email: konstgs@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-13
+NFT: 3 | $3050.00
+
+Login: alla_nic | Email: alla_nic@list.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-14
+NFT: 2 | $50000.00
+
+Login: Rusik777 | Email: abnormaly123@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-15
+NFT: 1 | $50.00
+
+Login: August | Email: nancy.jukova@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-15
+NFT: 1 | $50.00
+
+Login: Andkriv | Email: Andkriv85@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-16
+NFT: 4 | $31002.27
+
+Login: shadrina.kseniya.in86@gmail.com | Email: shadrina.kseniya.in86@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-17
+NFT: 1 | $100.00
+
+Login: Not_easy_4_u | Email: alex89952377448@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-20
+NFT: 2 | $15000.00
+
+Login: Yazhka | Email: 79817317448@ya.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-20
+NFT: 4 | $4002.00
+
+Login: DenTh | Email: den.txorev@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-20
+NFT: 6 | $34002.00
+
+Login: jst_kerby | Email: justkerby@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-21
+NFT: 2 | $1000.00
+
+Login: JointVIP | Email: Vip.it.2014@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-21
+NFT: 1 | $0.00
+
+Login: nikolay_0725 | Email: lutitskiy25@mail.ru | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-22
+NFT: 1 | $50.00
+
+Login: wayhome | Email: wayhomestudio@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-22
+NFT: 5 | $150000.00
+
+Login: Edward494 | Email: edi.el.maryani@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-24
+NFT: 6 | $9000.00
+
+Login: Aleks23 | Email: alekskater23@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-24
+NFT: 4 | $4002.00
+
+Login: Saga85 | Email: Saga.85@bk.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-25
+NFT: 6 | $54002.00
+
+Login: dariair | Email: dmkobozeva@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-25
+NFT: 4 | $11000.00
+
+Login: Nast850 | Email: goldentimesport@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-25
+NFT: 1 | $100.00
+
+Login: KroKsenia | Email: kro.ksenia86@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-25
+NFT: 1 | $50.00
+
+Login: AndreyK | Email: Stroysupport@yandex.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-26
+NFT: 2 | $100000.00
+
+Login: YursTdu | Email: alex79952377448@ya.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-26
+NFT: 2 | $1002.00
+
+Login: Oks_sky | Email: ili001@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-27
+NFT: 3 | $1000.00
+
+Login: Mariaoblako | Email: mariaoblako@gmail.com | Rank: 0 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-28
+NFT: 1 | $50.00
+
+Login: Yulia | Email: tsibo_gulia@mail.ru | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-29
+NFT: 1 | $100.00
+
+Login: CF-16 | Email: shedevro632@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-29
+NFT: 2 | $500.00
+
+Login: Shark2sea | Email: hello@avemario.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-30
+NFT: 1 | $500.00
+
+Login: Olesyasolomina | Email: olesyasolomina@gmail.com | Rank: 1 | Balance: USD: undefined | GGT: undefined | CreatedAt: 2023-12-31
+NFT: 2 | $3000.00
+

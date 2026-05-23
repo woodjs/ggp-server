@@ -7,3 +7,4 @@ sequelizeLoader();
 i18nLoader();
 expressLoader();
 // require('./cron/payout-nft');
+require('./cron/solana-payment');

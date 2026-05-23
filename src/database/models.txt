@@ -33,6 +33,10 @@ src/modules/role/role.entity.js
 src/modules/role/user/user-role.entity.js
 src/modules/security/protection/user/user-protection.entity.js
 src/modules/security/two-factor/code/code.entity.js
+src/modules/solana/nft-purchase/nft-purchase.entity.js
+src/modules/solana/nonce.entity.js
+src/modules/solana/payment.entity.js
+src/modules/solana/white-list/white-list.entity.js
 src/modules/telegram/user/user.entity.js
 src/modules/transaction/status/status.entity.js
 src/modules/transaction/transaction.entity.js
